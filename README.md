@@ -5,6 +5,7 @@ Listado de las startups cubanas
 * [Alamesa](https://www.alamesacuba.com): Directorio de restaurantes en Cuba.
 * [Bache cubano](https://www.bachecubano.com): Web de negocios, tiendas y clasificados en Cuba. Especialidad en computadoras, celulares, accesorios, electrodomésticos, casas y carros así como sorteos y compras online.
 * [Bajanda](http://bajanda.app): Aplicación de taxis en Cuba.
+* [Callemonte](https://callemonte.com): Metabuscador de clasificados.
 * [CarimarShow](https://www.carimarshow.com): Un catálogo promocional de series, películas, shows, novelas y mucho más. Toda la información gratis del mundo audiovisual en una aplicación.
 * [Claustrofobias](https://www.claustrofobias.com): Plataforma de promoción y publicidad de la literatura hecha en Cuba y sus escritores en todo el mundo.
 * [ConfiCuba](https://www.conficuba.com): Directorio de Repostería Cubana. El mejor sitio para encontrar cakes, helados, panqueques y otras delicias.
@@ -27,6 +28,5 @@ Listado de las startups cubanas
 * [Qvashop](https://www.qvashop.com): Primera Tienda Online de Celulares y Computadoras en Cuba.
 * [Sube](http://subecuba.com): Aplicación de taxis en Cuba.
 * [Yotellevo](https://yotellevocuba.com): Una comunidad de choferes de taxis privados en Cuba. Los contactas antes de llegar a la isla y te dan sus precios para tus traslados en Cuba.
-* [Callemonte](https://callemonte.com): Metabuscador de clasificados.
 
 ¿Deseas incluir tu startup en el listado? Lee la [guía de contribución](CONTRIBUTING.MD).

@@ -29,4 +29,4 @@ Listado de las startups cubanas
 * [Sube](http://subecuba.com): Aplicación de taxis en Cuba.
 * [Yotellevo](https://yotellevocuba.com): Una comunidad de choferes de taxis privados en Cuba. Los contactas antes de llegar a la isla y te dan sus precios para tus traslados en Cuba.
 
-¿Deseas incluir tu startup en el listado? Lee la [guía de contribución](CONTRIBUTING.MD).
+Este listado ha sido discontinuado y no se encuentra actualizado.
